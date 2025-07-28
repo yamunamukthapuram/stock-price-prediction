@@ -23,4 +23,4 @@ Run the Jupyter Notebook and execute all cells in order to:
 ## 📁 Files
 - `stock_prediction.ipynb` – Main notebook
 - `requirements.txt` – Dependencies
-- `stock_model.pkl` – Trained model (optional)
+- `stock_model.pkl` – Trained model 
